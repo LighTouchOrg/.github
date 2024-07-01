@@ -2,7 +2,7 @@
 
 LighTouch is a smart camera designed to transform any video projection into an interactive touchscreen. Originally created as a graduation project ("Epitech Innovation Project") at EPITECH, a French IT school, LighTouch leverages advanced video analysis and Bluetooth technology to enable intuitive and seamless user interaction.
 
-![LighTouch Logo](https://lightouchorg.github.io/img/logo.png)
+![LighTouch Logo](https://lightouchorg.github.io/img/logo_256.png)
 
 ## Overview
 
