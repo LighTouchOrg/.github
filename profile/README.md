@@ -8,7 +8,7 @@ LighTouch is a smart camera designed to transform any video projection into an i
 - Arnaud Vitale
 - [Benjamin Cottone](https://www.linkedin.com/in/cottone-benjamin/)
 - Fabien Gelorse
-- Jérémy Calosso-Merlino
+- [Jérémy Calosso-Merlino](https://www.linkedin.com/in/jeremy-calosso-merlino-392a99233/)
 - [Nathan Tranchant](https://github.com/Nathn)
 
 ## Overview
